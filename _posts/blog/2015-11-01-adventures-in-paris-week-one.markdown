@@ -4,10 +4,10 @@ title: "Adventures in Paris, Week One"
 modified:
 categories: blog
 excerpt:
-tags: []
+tags: [paris]
 image:
   feature: 2015.11.02/eiffel-night-bottom.jpg
-date: 2015-11-01T11:09:56+01:00
+date: 2015-10-27T11:09:56+01:00
 ---
 
 So my darling husband is in the habit of dropping me off in a foreign country
